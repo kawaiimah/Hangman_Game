@@ -4,7 +4,6 @@ Created on Mon Jun 29 16:27:37 2020
 
 Hangman using words.txt as word source
 
-@author: Benny
 """
 
 import random
